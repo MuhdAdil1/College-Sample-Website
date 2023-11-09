@@ -1,0 +1,198 @@
+/* header */
+
+.header{
+    width: 100%;
+    height: 220px;
+    position: fixed;
+    z-index: 1;
+}
+
+.logo{
+    width: 100%;
+    height: 122px;
+    background: #fff;
+    
+}
+
+.logo img{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.navbar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    cursor: pointer;
+  }
+  
+
+  /* Home-section */
+
+  .Home{
+    padding-top: 12em;
+  }
+
+  .principal_img{
+    padding: 5px;
+    
+    margin-left: 240px;
+    margin-top: 3px;
+  }
+
+  .principal_img img{
+    position: relative;
+    padding: 4px 4px;
+    border: 4px solid rgb(150, 149, 149);
+    padding-left: 4px;
+  }
+
+  .Home_about{
+    padding: 20px 100px;
+  }
+
+  /* About Us section */
+
+  .about_main{
+   padding-left: 109px;
+   margin-top: 20px;
+  }
+
+  .about_gdfc img{
+    padding: 5px;
+    margin-left: 240px;
+    margin-top: 100px;
+    position: relative;
+    padding: 4px 4px;
+    padding-left: 4px;
+  }
+
+  .about_para{
+    width: 70%;
+  }
+
+  .about_pic{
+    background: #000;
+    width: 10%;
+    position: relative;
+
+  }
+
+  /* course section */
+
+  .course_pic{
+    padding: 5px;
+    
+    margin-left: 240px;
+    margin-top: 100px;
+  }
+
+  .course_para{
+    margin-left: 109px;
+    margin-top: 20px;
+  }
+
+  .course_table{
+    padding-left: 109px;
+    margin-top: 100px;
+  }
+
+  .course_table table{
+    border: 2px solid black;
+  }
+
+  .course_table td{
+    border: 2px solid black;
+  }
+
+  .course_download{
+    padding-left: 109px;
+    margin-top: 30px;
+  }
+
+  /* Department */
+
+  .teachers{
+    padding: 5px;
+    
+    margin-left: 240px;
+    margin-top: 100px;
+  }
+
+  .dept_btn{
+    margin-left: 561px;
+    margin-top: 20px;
+  }
+
+  .dept_table{
+    margin-left: 424px;
+    margin-top: 38px;
+  }
+
+  /* facilities */
+
+  .lab_pic{
+    padding: 5px;
+    
+    margin-left: 240px;
+    margin-top: 100px;
+  }
+
+  /* facilities button is give the class of department button */
+
+  .facility_about{
+    padding-left: 109px;
+    margin-top: 20px;
+    width: 70%;
+  }
+
+  .facility_table{
+    margin-left: 318px;
+    margin-top: 38px;
+  }
+
+  /* gallery */
+
+  .gallery_pic1{
+    padding: 5px;
+    
+    margin-left: 280px;
+    margin-top: 100px;
+  }
+
+  .gallery_pic{
+    padding: 5px;
+    
+    margin-left: 280px;
+    margin-top: 30px;
+  }
+
+  /*apply online */
+
+  .applyonline{
+    padding: 104px 149px;
+  }
+
+  .apply_img{
+    padding: 20px 30px;
+    background: rgb(205, 202, 202);
+  }
+
+  /* footer */
+
+  .footer{
+    height: 100px;
+    background-color: rgb(97, 97, 252);   
+    z-index: 1;
+  }
+
+  .buttons {
+    margin-left: 60px;
+    margin-top: 20px;
+  }
+ 
